@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "mdbootstrap",
+        "scope": null,
+        "escapedName": "mdbootstrap",
+        "name": "mdbootstrap",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/revanthkorrapolu/Desktop/MyoTherapySuite"
+    ]
+  ],
+  "_from": "mdbootstrap@latest",
+  "_id": "mdbootstrap@4.5.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/mdbootstrap",
+  "_nodeVersion": "9.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/mdbootstrap_4.5.2_1525684754956_0.5332017038979457"
+  },
+  "_npmUser": {
+    "name": "mattonit",
+    "email": "bartlomiej.malanowski@hotmail.com"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "mdbootstrap",
+    "scope": null,
+    "escapedName": "mdbootstrap",
+    "name": "mdbootstrap",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/mdbootstrap/-/mdbootstrap-4.5.2.tgz",
+  "_shasum": "a586285d235578d5200c9a554fa683af25c12fe3",
+  "_shrinkwrap": null,
+  "_spec": "mdbootstrap",
+  "_where": "/Users/revanthkorrapolu/Desktop/MyoTherapySuite",
+  "author": {
+    "name": "MDBootstrap"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-material-design/issues"
+  },
+  "dependencies": {},
+  "description": "Material Design for Bootstrap (MDB) is a powerful Material Design UI KIT for most popular HTML, CSS, and JS framework - Bootstrap.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-IK5QYkf1msUbnoCb15fHrAy0p+kN9SEIGKPdE1w0X+yBSOYgp0TBH/OIi21PqVUiVO7ue7UvhJbC091Ym/gJHg==",
+    "shasum": "a586285d235578d5200c9a554fa683af25c12fe3",
+    "tarball": "https://registry.npmjs.org/mdbootstrap/-/mdbootstrap-4.5.2.tgz",
+    "fileCount": 83,
+    "unpackedSize": 3213046,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa8BoVCRA9TVsSAnZWagAA1EsP/0cGM4ZCtXEqMCbTFMxK\npzQIwncSxGk1M+tDUDIrFtlb+Pjt8qNcFMSzbwkUJHZTIWKFt8x04eLY+oRK\nc3O4Dm7vhCkFp62J/wYDwhHITMY6QNSbvFqo85MG5a4zp7KSxOovLgaLI17M\n6a8Wuel/4iPWyR8i2kVcjxOb9HhvAYOqb39a1lvidBp+No9e/RbPFXa6Nqhj\niuNTmov8Eot6XEsve5THKmbi7ONQRNg9uG47PBnW5ZCE2XyVtO0j5ZsAA+a6\nvlij6GnIk+GkHTY7vnX+mxQZ18yPRDXEOnUIS0rZJr5lC/yhjuxupD3aT94T\nSbEAh8I2AoOAzpMDkLLa80Rq8DMdRBQb9OmAPYxBFDfQBP6/5L7H4UzlZ0j/\nILyoZHy4+QQBcOETbqGdngzDPmLrEZEAy8q+c8G+0qvLSHKTUYvkUqcNo8XB\nGwmhQduVh5WQdNWZNhS8h3kTmxCprTpHtkjVHGigXCqz7ge6LqDRCpyC+1gg\n4ggH3mNaHul/G2e24RpYw/Ik+8w6wnHe8ISgqTc/IMhd1FjCmX62C+0slpFQ\nVqcZuLYtyRN3EjjxHG6N2MV1fFGlcxa1PS+d9zKbGHS9NgdD6POZho5fpBhr\n9jIVR8DwXJsG86jAyq+bUIM9iNydFwWgnQLxhrkWvDHAWB6EhnBguJ/OQn3u\n6BRo\r\n=3JRw\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "0f6cfb7a4601067874c322c21cbb866db9c39765",
+  "homepage": "https://mdbootstrap.com",
+  "keywords": [
+    "material",
+    "design",
+    "bootstrap",
+    "mdbootstrap",
+    "mdb",
+    "framework",
+    "css",
+    "mobile-first",
+    "responsive"
+  ],
+  "license": "Custom license (read license.pdf)",
+  "main": "js/mdb.min.js",
+  "maintainers": [
+    {
+      "name": "mattonit",
+      "email": "bartlomiej.malanowski@hotmail.com"
+    },
+    {
+      "name": "mdbootstrap",
+      "email": "support@mdbootstrap.com"
+    }
+  ],
+  "name": "mdbootstrap",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mdbootstrap/bootstrap-material-design.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.5.2"
+}
